@@ -1,4 +1,4 @@
-# Career Development Task Tracker
+# Career Path Analysis: Technical Skills Inventory for Social Impact Tech Roles
 This application is your go-to tool for navigating the tech landscape, especially if you're looking to make a real impact. It helps you get a clear picture of your current technical skills and then maps out a personalized path for you to grow into social impact roles. What's cool about it is how it combines your self-assessment with a custom learning plan, complete with direct links to free online resources. It's all about giving you a clear, actionable roadmap to build the skills you need for a career that truly matters.
 
 ## Features
@@ -19,8 +19,8 @@ Ready to dig in? Here's how to get it set up:
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/your-username/career-development-task-tracker.git
-   cd career-development-task-tracker
+   git clone git@github.com:daaimah123/career-path-analysis-technical-skills-inventory.git
+   cd career-path-analysis-technical-skills-inventory
    ```
 2. **Install dependencies:**
    ```bash
