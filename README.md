@@ -1,5 +1,7 @@
 # Career Path Analysis: Technical Skills Inventory for Social Impact Tech Roles
-This application is your go-to tool for navigating the tech landscape, especially if you're looking to make a real impact. It helps you get a clear picture of your current technical skills and then maps out a personalized path for you to grow into social impact roles. What's cool about it is how it combines your self-assessment with a custom learning plan, complete with direct links to free online resources. It's all about giving you a clear, actionable roadmap to build the skills you need for a career that truly matters.
+This application is your go-to tool for navigating the tech landscape, especially if you're looking to make a real impact. It helps you get a clear picture of your current technical skills and then maps out a personalized path for you to grow into social impact roles. What's cool about it is how it combines your self-assessment with a custom learning plan, complete with direct links to free online resources. It's all about giving you a clear, actionable roadmap to build the skills you need for a career that truly matters. Try it out [here](https://career-path-analysis-technical-skil.vercel.app/)!
+
+![tech-skills-inventory](https://github.com/user-attachments/assets/8fc9b469-b789-4af2-a7e1-f4ee321838cf)
 
 ## Features
 - **Skill Self-Assessment:** You can rate your own skills, from "not familiar" to "expert level." It's like a personal check-in.
