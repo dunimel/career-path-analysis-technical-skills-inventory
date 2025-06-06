@@ -11,7 +11,6 @@ export default function GapAnalysis() {
       keySkills: [
         { name: "Technical Architecture Design", category: "Technical Leadership", priority: "high" },
         { name: "Stakeholder Management", category: "Product & Strategy", priority: "high" },
-        { name: 'Cloud Services", category  category: "Product & Strategy', priority: "high" },
         { name: "Cloud Services", category: "DevOps & Infrastructure", priority: "high" },
         { name: "Impact Metrics & KPIs", category: "Social Impact Measurement", priority: "high" },
         { name: "Technical Strategy", category: "Product & Strategy", priority: "high" },
@@ -113,9 +112,9 @@ export default function GapAnalysis() {
               <Info className="h-4 w-4" />
               <AlertTitle>Social Impact Technology Director</AlertTitle>
               <AlertDescription>
-                As a full stack engineer with management experience, you likely have many of the technical skills
-                needed, but may need to develop domain expertise in social impact measurement and cross-sector
-                collaboration.
+                With your full stack engineering and management background, you've got most of the technical chops
+                covered. The main areas to focus on would be social impact measurement and working across different
+                sectors.
               </AlertDescription>
             </Alert>
 
@@ -172,8 +171,8 @@ export default function GapAnalysis() {
               <Info className="h-4 w-4" />
               <AlertTitle>Civic Technology Engineering Manager</AlertTitle>
               <AlertDescription>
-                Your software engineering and team management experience provides a strong foundation, but you'll need
-                to develop specific knowledge of government digital services and public sector requirements.
+                Your software engineering and team management experience gives you a solid foundation. You'd mainly need
+                to pick up knowledge about government digital services and public sector requirements.
               </AlertDescription>
             </Alert>
 
@@ -231,8 +230,8 @@ export default function GapAnalysis() {
               <Info className="h-4 w-4" />
               <AlertTitle>EdTech Platform Architect</AlertTitle>
               <AlertDescription>
-                Your technical skills transfer well to this role, but you'll need to develop specific knowledge of
-                educational technology standards, learning management systems, and student data privacy regulations.
+                Your technical skills translate really well here. You'd want to dive into educational technology
+                standards, learning management systems, and student data privacy regulations.
               </AlertDescription>
             </Alert>
 
@@ -290,8 +289,8 @@ export default function GapAnalysis() {
               <Info className="h-4 w-4" />
               <AlertTitle>Fintech Inclusion Engineering Leader</AlertTitle>
               <AlertDescription>
-                Your software engineering background provides a strong foundation, but you'll need to develop specific
-                knowledge of financial regulations, banking APIs, and security standards for financial data.
+                Your software engineering background sets you up well. You'd need to get familiar with financial
+                regulations, banking APIs, and security standards for financial data.
               </AlertDescription>
             </Alert>
 
@@ -349,8 +348,8 @@ export default function GapAnalysis() {
               <Info className="h-4 w-4" />
               <AlertTitle>Tech for Good Product Director</AlertTitle>
               <AlertDescription>
-                Your technical background is valuable, but you'll need to develop product management skills, impact
-                measurement frameworks, and user research methodologies for vulnerable populations.
+                Your technical background is definitely valuable here. You'd want to build up product management skills,
+                impact measurement frameworks, and user research methods for vulnerable populations.
               </AlertDescription>
             </Alert>
 

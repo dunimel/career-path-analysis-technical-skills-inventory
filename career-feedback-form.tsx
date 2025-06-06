@@ -38,7 +38,7 @@ export default function CareerFeedbackForm() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
     setSubmitted(true)
-    // In a real implementation, this would send the feedback to the career analyst
+    // This would connect to your backend API to send the feedback
   }
 
   if (submitted) {
@@ -48,7 +48,7 @@ export default function CareerFeedbackForm() {
           <CheckCircle2 className="mx-auto h-12 w-12 text-green-500 mb-2" />
           <CardTitle className="text-xl">Feedback Submitted</CardTitle>
           <CardDescription>
-            Your feedback has been sent to the career analyst. Expect a response within 3-5 business days.
+            Your feedback has been submitted successfully. You should hear back within 3-5 business days.
           </CardDescription>
         </CardHeader>
       </Card>
